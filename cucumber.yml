@@ -1,0 +1,3 @@
+---
+default: -p html --format progress
+html: --format html --out=log/reports.html
